@@ -1,0 +1,33 @@
+{
+  "version": "V1.0",
+  "items": [
+    {
+      "platform": "Windows",
+      "icon": "windows",
+      "explanation": "原版",
+      "link": "https://warmagame.lofter.com/post/1e801dfc_ce80b3b",
+      "description": "前往 warma 的游戏制作屋下载原版"
+    },
+    {
+      "platform": "macOS",
+      "icon": "apple",
+      "explanation": "新引擎",
+      "link": "https://warmagame.lofter.com/post/1e801dfc_ce80b3b",
+      "description": "支持 Apple Silicon 和 Intel 64 位处理器，需要 macOS Sierra (10.12.2) 以上版本系统。"
+    },
+    {
+      "platform": "macOS",
+      "icon": "apple",
+      "explanation": "传统引擎",
+      "link": "https://warmagame.lofter.com/post/1e801dfc_ce80b3b",
+      "description": "支持 32 位和 64 位的 Intel 处理器，需要 Mac OS X Snow Leopard (10.6) 以上版本系统。"
+    },
+    {
+      "platform": "GNU/Linux",
+      "icon": "linux",
+      "explanation": "AMD64",
+      "link": "https://warmagame.lofter.com/post/1e801dfc_ce80b3b",
+      "description": "Linux 版分发方式为 AppImage。"
+    }
+  ]
+}

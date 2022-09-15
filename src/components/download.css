@@ -1,0 +1,24 @@
+.download-icon {
+    padding-right: 0.25rem;
+}
+
+.download {
+    display: inline-block;
+    width: 200pt;
+}
+
+.download > button {
+    background-color: #c0c0c0;
+    border-radius: 5px;
+    height: 40pt;
+    font-size: 16pt;
+    width: 200pt;
+    cursor: pointer;
+    outline: none;
+}
+
+.download-explanation {
+    color: #666;
+    font-size: 9pt;
+    padding-left: 0.25rem;
+}

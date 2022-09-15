@@ -1,0 +1,39 @@
+@font-face {
+    font-family: "Fusion Pixel";
+    src: url("../assets/fusion-pixel.woff2");
+}
+
+.polemo-body a {
+    color: inherit;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-decoration-thickness: from-font;
+}
+
+.polemo-body {
+    background-color: #66679F;
+}
+
+.polemo-body * {
+    font-family: sans-serif;
+    color: #fff;
+}
+
+.polemo-page {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+.polemo-download button {
+    background-color: #F9EEA4;
+    border-radius: 68px 120px;
+}
+
+.polemo-download * {
+    color: #3e5278;
+}
+
+.polemo-download .download-explanation {
+    color: #66679E;
+}

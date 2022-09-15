@@ -1,0 +1,1 @@
+export default (...classnames: (string | undefined)[]) => classnames.filter((classname) => classname).join(" ")

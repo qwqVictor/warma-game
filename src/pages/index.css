@@ -1,0 +1,38 @@
+.index-body {
+    background-image: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)),url("../assets/bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.index-page {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.index-container {
+    display: inline-block;
+    width: fit-content;
+}
+
+.index-heading h1 {
+    font-size: 25pt;
+}
+
+.index-heading {
+    display: inline-block;
+    text-align: right;
+}
+
+.index-author {
+    font-size: 15pt;
+    text-align: right;
+}
+
+.index-container > ul {
+    list-style-type: none;
+}
+
+img {
+    max-width: 80%;
+}
